@@ -1,0 +1,9 @@
+{
+    "watchForFileChanges" : false,
+
+    "env": {
+        "BASEURL":"https://parabank.parasoft.com/parabank/index.htm",
+        "USERNAME" : "test1",
+        "PASSWORD" : "test123"
+     }
+}
